@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Restorer",
+  "description": "Upload old, faded, or damaged photos and use the power of Gemini AI to restore and enhance them. The application provides a side-by-side comparison of the original and improved images.",
+  "requestFramePermissions": []
+}
